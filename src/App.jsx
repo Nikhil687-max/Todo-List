@@ -1,9 +1,9 @@
-import StopWatch from './Stopwatch'
 import './App.css'
+import Todo from './todolist'
 
 function App() {
   return (
-    <StopWatch />
+    <Todo />
   )
 }
 
